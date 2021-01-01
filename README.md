@@ -1,4 +1,4 @@
-![Maintenance](https://img.shields.io/maintenance/yes/2020.svg)
+![Maintenance](https://img.shields.io/maintenance/yes/2021.svg)
 
 # Iga Ninja Font – Cipher from Iga
 
