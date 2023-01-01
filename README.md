@@ -1,5 +1,3 @@
-![Maintenance](https://img.shields.io/maintenance/yes/2022.svg)
-
 # Iga Ninja Font – Cipher from Iga
 
 The Iga Ninja Font was created by [Stefan Imhoff] of an image provided by the Iga Ninja Museum in Japan and is said to be a font for correspondence in cipher. The font can be downloaded on [kogakure.de] or from this repository.
